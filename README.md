@@ -66,24 +66,6 @@ Supported in parts by the Slovenian Research Agency ARRS through the Research Pr
 
 <img src="images_readme/ARRSLogo.png" alt="sponsor_logo" width="400">
 
-### Citation
 
-If you find MaskFaceGAN useful in your research work, please consider citing:
-
-    @ARTICLE{DBLP:journals/corr/abs-2103-11135,
-      author    = {Martin Pernus and
-                   Vitomir Struc and
-                   Simon Dobrisek},
-      title     = {High Resolution Face Editing with Masked {GAN} Latent Code Optimization},
-      journal   = {CoRR},
-      volume    = {abs/2103.11135},
-      year      = {2021},
-      url       = {https://arxiv.org/abs/2103.11135},
-      eprinttype = {arXiv},
-      eprint    = {2103.11135},
-      timestamp = {Wed, 24 Mar 2021 15:50:40 +0100},
-      biburl    = {https://dblp.org/rec/journals/corr/abs-2103-11135.bib},
-      bibsource = {dblp computer science bibliography, https://dblp.org}
-    }
     
 
